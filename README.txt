@@ -7,4 +7,6 @@
 http://www.freebuf.com/news/147188.html
 https://www.v2ex.com/t/389340?p=1
 
-
+Note :
+文章裡面說 80 行, 但那是 function 開始
+文章內容有問題的部分實際約 108 行
