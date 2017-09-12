@@ -1,0 +1,10 @@
+[Backup]
+
+據說是有問題的 Chrome plugin 
+下載連結 : https://chrome.google.com/webstore/detail/user-agent-switcher-for-g/ffhkkpnppgnfaobgihpdblnhmmbodake/reviews
+
+相關連結 （教學） :
+http://www.freebuf.com/news/147188.html
+https://www.v2ex.com/t/389340?p=1
+
+
