@@ -8,5 +8,8 @@ http://www.freebuf.com/news/147188.html
 https://www.v2ex.com/t/389340?p=1
 
 Note :
-文章裡面說 80 行, 但那是 function 開始
-文章內容有問題的部分實際約 108 行
+有問題的路徑為 ChromePluginBackdoor / js / background.js
+函數為第 80 行
+
+09/12
+因為 80 行一坨太難看 , 新增檔案 payload.js , 把第 80 行的部分整理一下
